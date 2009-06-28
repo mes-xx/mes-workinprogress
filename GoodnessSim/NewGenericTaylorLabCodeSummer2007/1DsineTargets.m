@@ -1,0 +1,1 @@
+VR.targets=ones(size(output,1),size(VR.modes,2))

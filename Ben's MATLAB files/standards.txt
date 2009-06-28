@@ -1,0 +1,19 @@
+structure TDT:
+
+before initializing with InitActX, must contain:
+     TDT.use_TDevAcc
+
+after, contains:
+     TDT.RP		ActiveX control handle
+	.Dev{1}		device name
+	.tag_zTime	timing tag
+	.call_GetTag	for accessing parameter tags (scalars)
+	.call_SetTag	for setting the value of parameter tags (scalars)
+	.call_ReadTag	for accessing buffers
+	.sample_rate	device sample rate
+
+the handle and server connection are established
+
+Get_Comp_waveform adds:
+     TDT.num_chan	#channels to do
+	

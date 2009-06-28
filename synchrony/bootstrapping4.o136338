@@ -1,0 +1,56 @@
+Hello World
+136338.master.priv.cwru.edu
+ 
+----------------------------------------------------------------------------
+Warning: glibc 2.3.4      - Your version
+         glibc 2.3.6      - MATLAB built using this version
+----------------------------------------------------------------------------
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2008 The MathWorks, Inc.
+                         Version 7.6.0.324 (R2008a)
+                             February 10, 2008
+
+Warning: X does not support locale en_SG.UTF-8
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+2009/02/25 11:57:43 Hello world!
+sync 1
+sync 2
+sync 3
+sync 4
+sync 5
+sync 6
+sync 7
+sync 8
+sync 9
+sync 10
+sync 11
+sync 12
+sync 13
+sync 14
+sync 15
+sync 16
+sync 17
+sync 18
+sync 19
+sync 20
+sync 21
+sync 22
+sync 23
+sync 24
+sync 25
+sync 26
+sync 27
+sync 28
+sync 29
+sync 30
+   1.0e-03 *
+
+   -0.0070    0.0078
+   -0.0630    0.1999
+
+>> 
